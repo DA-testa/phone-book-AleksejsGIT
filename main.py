@@ -1,4 +1,5 @@
 # python3
+# Aleksejs Šepeļevs, 3.grupa, 221RDB494
 
 class Query:
     def __init__(self, query):
